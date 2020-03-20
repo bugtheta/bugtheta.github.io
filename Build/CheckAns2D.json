@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CheckAns2D",
+"productVersion": "0.1",
+"dataUrl": "CheckAns2D.data.unityweb",
+"wasmCodeUrl": "CheckAns2D.wasm.code.unityweb",
+"wasmFrameworkUrl": "CheckAns2D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.4f1"
+}
